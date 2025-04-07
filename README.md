@@ -51,7 +51,7 @@ pip install flask requests
 ```python
 ZABBIX_URL = 'http://<your-zabbix-server>/zabbix'
 ZABBIX_USER = 'Admin'
-ZABBIX_PASSWORD = 'zabbix'
+ZABBIX_PASSWORD = '-'
 ```
 
 4. **Run the App**
